@@ -130,7 +130,7 @@ Applied in metagenomics and infectious disease analysis and SARS-CoV-2 analysis
 ---
 ## GitHub Stats
 
-![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-genomics&show_icons=true&theme=default)
+![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-genomics&show_icons=true&theme=default&cache_seconds=1800)
 
 ---
 
