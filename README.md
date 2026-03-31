@@ -1,29 +1,29 @@
-# 👩‍🔬 Sonia
+# Sonia
 
-🎓 MSc Biotechnology | 💻 Bioinformatics & Genomics  
-🔬 Passionate about multi-omics data analysis and computational biology  
-🧠 Interested in disease subtyping, biomarker discovery, and translational research  
-
----
-
-## 🚀 About Me
-
-- 🧬 Bioinformatics enthusiast with hands-on experience in **NGS data analysis**
-- 🔍 Worked on **under & over-representation of CTAG motifs in bacterial genomes**
-- 🧪 Skilled in integrating **wet lab + computational biology**
-- 💡 Interested in **multi-omics + clinical data integration**
-- 🎯 Goal: Pursuing a **PhD in Genomic and  Bioinformatics / Computational Biology**
+MSc Biotechnology | Bioinformatics & Genomics  
+Passionate about multi-omics data analysis and computational biology  
+Interested in disease subtyping, biomarker discovery, and translational research  
 
 ---
 
-## 🔐 Research Ethics & Data Confidentiality
+## About Me
 
-- 🚫 Due to **data confidentiality agreements**, certain project codes and datasets cannot be shared publicly  
-- ✅ Only non-sensitive, reproducible, and open-source work is available on this profile  
-- 🔬 Maintains strict adherence to **research ethics and data privacy standards**
+- Bioinformatics enthusiast with hands-on experience in **NGS data analysis**
+- Worked on **under & over-representation of CTAG motifs in bacterial genomes**
+- Skilled in integrating **wet lab + computational biology**
+- Interested in **multi-omics + clinical data integration**
+- Goal: Pursuing a **PhD in Genomic and  Bioinformatics / Computational Biology**
 
 ---
-## 🛠️ Tools & Technologies
+
+## Research Ethics & Data Confidentiality
+
+- Due to **data confidentiality agreements**, certain project codes and datasets cannot be shared publicly  
+- Only non-sensitive, reproducible, and open-source work is available on this profile  
+- Maintains strict adherence to **research ethics and data privacy standards**
+
+---
+## Tools & Technologies
 
 ### 🧬 Molecular Biology & Biotechnology
 
@@ -83,7 +83,7 @@
 
 ---
 
-### 🧪 Current Work
+### Current Work
 
 - Whole Exome Sequencing (WES)  
 - Whole Genome Sequencing (WGS)  
@@ -92,7 +92,7 @@
 
 ---
 
-### 🧰 IT & Documentation Tools
+###  IT & Documentation Tools
 
 - MS Word, Excel, PowerPoint  
 - GraphPad Prism  
@@ -101,40 +101,23 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🔬 CTAG Motif Analysis Pipeline
-📌 Study of under/over-representation of CTAG in bacterial genomes  
-⚙️ Tools: Python, Biopython, Linux  
-📊 Includes genome-wide and gene-level analysis  
-
-
-
----
-
-### 🧬 NGS Data Analysis Pipeline
-📌 End-to-end workflow for sequencing data  
-⚙️ Tools: FastQC, Porechop, NanoFilt, Samtools, Kraken  
-📊 Applied in metagenomics and infectious disease analysis and SARS-CoV-2 analysis  
+### CTAG Motif Analysis Pipeline
+Study of under/over-representation of CTAG in bacterial genomes  
+Tools: Python, Biopython, Linux  
+Includes genome-wide and gene-level analysis  
 
 
 
 ---
 
-## 🔬 NGS Analysis Workflow
-
-```mermaid
-graph TD
-A[Raw FASTQ Files] --> B[Quality Control - FastQC]
-B --> C[Trimming - NanoFilt / Porechop]
-C --> D[Alignment - Bowtie2]
-D --> E[Processing - Samtools]
-E --> F[Variant Calling / Taxonomic Classification]
-F --> G[Data Interpretation & Visualization]
+### NGS Data Analysis Pipeline
+End-to-end workflow for sequencing data  
+Tools: FastQC, Porechop, NanoFilt, Samtools, Kraken  
+Applied in metagenomics and infectious disease analysis and SARS-CoV-2 analysis  
 
 ---
-
-
 
 ## 🔬 Research Interests
 
@@ -145,16 +128,16 @@ F --> G[Data Interpretation & Visualization]
 - Precision Medicine 
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-genomics&show_icons=true)
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sonia-0a97341a5  
-- 📧 Email: soniakaurbio05@gmail.com 
+-  LinkedIn: https://www.linkedin.com/in/sonia-0a97341a5  
+-  Email: soniakaurbio05@gmail.com 
 
 ---
 ⭐ *Open to collaborations, research opportunities, and PhD positions*
