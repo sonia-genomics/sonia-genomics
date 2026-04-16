@@ -1,4 +1,4 @@
-Hi, I'm Sonia
+**Hi, I'm Sonia**
 
 MSc Biotechnology graduate specializing in **Bioinformatics and Genomics**, with experience in **NGS data analysis and pipeline development**.
 
