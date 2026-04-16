@@ -1,8 +1,8 @@
-# Sonia
+Hi, I'm Sonia
 
-MSc Biotechnology | Bioinformatics & Genomics  
-Passionate about multi-omics data analysis and computational biology  
-Interested in disease subtyping, biomarker discovery, and translational research  
+MSc Biotechnology graduate specializing in **Bioinformatics and Genomics**, with experience in **NGS data analysis and pipeline development**.
+
+I am interested in pursuing a PhD in **genomics and genetic diseases**, focusing on analyzing **NGS and multi-omics data** to identify disease-associated variants, understand molecular mechanisms, and contribute to **precision medicine**.
 
 ---
 
@@ -13,16 +13,52 @@ Interested in disease subtyping, biomarker discovery, and translational research
 - Skilled in integrating **wet lab + computational biology**
 - Interested in **multi-omics + clinical data integration**
 - Goal: Pursuing a **PhD in Genomic and  Bioinformatics / Computational Biology**
+---
+
+## 🔬 Research Interests
+
+- Genomics & Genetic Diseases
+- Multi-omics Data Integration
+- Disease Subtyping & Biomarker Discovery
+- Computational Biology & Bioinformatics
+- Precision Medicine
+ 
+---
+
+##  Featured Projects
+
+### CTAG Motif Analysis Pipeline
+
+Bioinformatics pipeline to analyze under- and over-representation of CTAG motifs in bacterial genomes.
+
+Genome-wide and gene-level analysis
+Tools: Python, Biopython, Linux  
 
 ---
 
-## Research Ethics & Data Confidentiality
+### NGS Data Analysis Pipeline
 
-- Due to **data confidentiality agreements**, certain project codes and datasets cannot be shared publicly  
-- Only non-sensitive, reproducible, and open-source work is available on this profile  
-- Maintains strict adherence to **research ethics and data privacy standards**
+End-to-end workflow for sequencing data processing and analysis.
+
+Quality control → trimming → alignment → downstream analysis
+Tools: FastQC, NanoFilt, Porechop, Samtools, Kraken
+Applications: Metagenomics & SARS-CoV-2 analysis
 
 ---
+
+## 🧪 Research Experience
+
+**Dissertation Research**  
+Investigated the under- and over-representation of **CTAG motifs in bacterial genomes** through genome-wide and gene-level analysis, utilizing computational approaches to identify motif distribution patterns and their potential biological significance.
+
+**Research Training – CSIR-IGIB (Genomics & Molecular Technologies)**  
+- Processed and analyzed biological samples including human (blood, saliva, tissue), wastewater, and soil for genomic studies  
+- Performed NGS library preparation, sequencing data quality control, and downstream analysis  
+- Developed bioinformatics pipelines for **metagenomic profiling and SARS-CoV-2 genome analysis**  
+- Utilized tools such as FastQC, alignment software, and taxonomic classifiers for high-throughput sequencing data interpretation
+
+---
+
 ## Tools & Technologies
 
 ### 🧬 Molecular Biology & Biotechnology
@@ -101,45 +137,18 @@ Interested in disease subtyping, biomarker discovery, and translational research
 
 ---
 
-##  Featured Projects
+## Research Ethics & Data Confidentiality
 
-### CTAG Motif Analysis Pipeline
-Study of under/over-representation of CTAG in bacterial genomes  
-Tools: Python, Biopython, Linux  
-Includes genome-wide and gene-level analysis  
-
-
-
----
-
-### NGS Data Analysis Pipeline
-End-to-end workflow for sequencing data  
-Tools: FastQC, Porechop, NanoFilt, Samtools, Kraken  
-Applied in metagenomics and infectious disease analysis and SARS-CoV-2 analysis  
-
----
-
-## 🔬 Research Interests
-
-- Genetic Disorders & Genomic Variation
-- Bioinformatics & Computational Biology
-- Genomics & Multi-omics Integration
-- Disease Subtyping
-- Precision Medicine 
-
----
-## GitHub Stats
-
-![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonia-genomics&show_icons=true&theme=default&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonia-genomics&layout=compact)
+- Due to **data confidentiality agreements**, certain project codes and datasets cannot be shared publicly  
+- Only non-sensitive, reproducible, and open-source work is available on this profile  
+- Maintains strict adherence to **research ethics and data privacy standards**
 
 ---
 
 ## Connect with Me
 
 -  LinkedIn: https://www.linkedin.com/in/sonia-0a97341a5  
--  Email: soniakaurbio05@gmail.com 
+-  Email: soniasoni5998@gmail.com 
 
 ---
 ⭐ *Open to collaborations, research opportunities, and PhD positions*
