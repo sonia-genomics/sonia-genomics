@@ -195,6 +195,7 @@ FastQC, Fastp, STAR, HISAT2, Samtools, Kraken2, FeatureCounts
 - Trimmomatic
 - STAR
 - HISAT2
+- BWA
 - Samtools
 - Picard
 - GATK
@@ -211,6 +212,8 @@ FastQC, Fastp, STAR, HISAT2, Samtools, Kraken2, FeatureCounts
 - OMIM
 - Ensembl
 - PharmGKB
+- PharmVar
+- Pharmcat
 - CPIC
 - CIViC
 - OncoKB
