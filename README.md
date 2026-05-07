@@ -1,6 +1,6 @@
 # Hi, I'm Sonia
 
-MSc Biotechnology graduate specializing in Bioinformatics, Genomics, and Computational Biology, with experience in NGS data analysis, transcriptomics, variant interpretation, and bioinformatics pipeline development.
+MSc Biotechnology graduate specializing in Molecular Biology, Bioinformatics, Genomics, and Computational Biology, with experience in NGS data analysis, transcriptomics, variant interpretation, and bioinformatics pipeline development.
 
 Currently working in the genomics domain with exposure to Whole Exome Sequencing (WES), Whole Genome Sequencing (WGS), targeted RNA sequencing, and blended exome-genome analysis for applications in cancer genomics and genetic disease analysis.
 
